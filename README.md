@@ -21,5 +21,33 @@ This is a visually engaging Battleship Game built using Python and Pygame, desig
 
 It showcases turn-based gameplay, grid-based logic, and real-time feedback using hits, misses, and dynamic rendering. This project also demonstrates strong structuring in code, file organization, and scalable game logic.
 
+# Key Features:
+
+Ship Placement:
+
+- Player places 7 ships(Carrier, Battleship, Cruiser, Destroyer, Submarine, Patrol Boat, Rescue Boat) on the left grid.
+
+- AI randomly places 7 ships on the right grid.
+
+Turn-Based Combat:
+
+- Player and AI take turns attacking each other’s grid.
+
+- Hits and misses are visually indicated.
+
+Win/Loss Logic:
+
+- First to destroy all 8 of the opponent’s ships wins.
+
+- Game-over message is shown upon win/loss.
+
+Simple & Clean UI:
+
+- Pygame-rendered grid
+
+- Difficulty selection menu
+
+
+
 
 
