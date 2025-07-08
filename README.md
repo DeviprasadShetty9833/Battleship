@@ -15,15 +15,11 @@
 
 ---
 
-# Overview
+# Overview:
 
-A level-based Battleship game built using Python and Pygame, featuring:
+This is a visually engaging Battleship Game built using Python and Pygame, designed to simulate the classic naval war strategy game — with a modern twist. The game features a level-based grid system (Easy, Hard), interactive UI, and an AI opponent.
 
-Multiple difficulty levels (Easy, Moderate, Hard)
+It showcases turn-based gameplay, grid-based logic, and real-time feedback using hits, misses, and dynamic rendering. This project also demonstrates strong structuring in code, file organization, and scalable game logic.
 
-A visual grid-based UI
 
-AI opponent with randomized ship placement
-
-Turn-based combat with win/loss detection
 
