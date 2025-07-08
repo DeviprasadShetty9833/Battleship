@@ -14,3 +14,16 @@
 <br> 
 
 ---
+
+# Overview
+
+A level-based Battleship game built using Python and Pygame, featuring:
+
+Multiple difficulty levels (Easy, Moderate, Hard)
+
+A visual grid-based UI
+
+AI opponent with randomized ship placement
+
+Turn-based combat with win/loss detection
+
