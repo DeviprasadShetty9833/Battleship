@@ -23,31 +23,18 @@ It showcases turn-based gameplay, grid-based logic, and real-time feedback using
 
 # Key Features:
 
-Ship Placement:
+1. **Three Difficulty Levels** – Choose between Easy (6×6), Moderate (8×8), or Hard (10×10) grids, each scaling the challenge and grid dimensions.
 
-- Player places 7 ships(Carrier, Battleship, Cruiser, Destroyer, Submarine, Patrol Boat, Rescue Boat) on the left grid.
+2. **Drag-and-Drop Ship Placement** – Player ships are represented with real ship images and can be placed intuitively on the grid by dragging and dropping.
 
-- AI randomly places 7 ships on the right grid.
+3. **AI Ship Deployment** – The AI randomly positions its ships on its side of the board with balanced distribution logic.
 
-Turn-Based Combat:
+4. **Dynamic Gun Turrets** – Each ship's gun visually rotates in real-time to follow the player's mouse cursor, enhancing immersion.
 
-- Player and AI take turns attacking each other’s grid.
+5. **Radar Scanning System** – A tactical radar can be activated to sweep and reveal glimpses of hidden enemy ships on the board.
 
-- Hits and misses are visually indicated.
+6. **Turn-Based Combat** – Players take alternating turns firing at the opponent’s grid, with visual feedback for hits and misses.
 
-Win/Loss Logic:
+7. **Victory Detection** – The game automatically detects when all ships of a player are sunk, declaring the winner.
 
-- First to destroy all 8 of the opponent’s ships wins.
-
-- Game-over message is shown upon win/loss.
-
-Simple & Clean UI:
-
-- Pygame-rendered grid
-
-- Difficulty selection menu
-
-
-
-
-
+8. **Smooth UI and Visual Feedback** – Includes grid labels, animations, and action prompts for a polished user experience.
