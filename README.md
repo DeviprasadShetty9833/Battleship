@@ -74,12 +74,16 @@ pip install pygame
 
 ▶️ Run the Game:
 <br> 1. Copy the source code from the file : src.c
-<br> 2. Paste the code on a Python file & save it as " Battleship.py "
+<br> 2. Paste the code on a Python file & save it as ' **Battleship.py** '.
 
 🎮 Controls:
-Mouse Click:
-<br> 1. On Left board: place ships (during setup)
-<br> 2. On Right board: fire shots (during game)
+<br> 1. Placing Ships: 
+- Place the ships on Left board: or click on ' **Randomize** '.
+- Click on ' **Deploy** '.
+
+<br> 2. Game Play:
+- Click on grid boxes on Right board to fire shots on Opponent's ships.
+- Use ' **Radar** ' to scan enemy waters and locate the ship.
 
 # Output:
 
