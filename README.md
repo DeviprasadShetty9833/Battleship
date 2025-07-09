@@ -32,17 +32,20 @@ It showcases turn-based gameplay, grid-based logic, and real-time feedback using
 <br> ![3.](https://img.shields.io/badge/3.-AI_Ship_Deployment-34A853?style=for-the-badge&labelColor=white)
 <br> The AI randomly positions its ships on its side of the board with balanced distribution logic.
 
-<br> ![4.](https://img.shields.io/badge/4.-Dynamic_Gun_Turrets-34A853?style=for-the-badge&labelColor=white)
-<br> Each ship's gun visually rotates in real-time to follow the player's mouse cursor, enhancing immersion.
-
-<br> ![5.](https://img.shields.io/badge/5.-Radar_Scanning_System-34A853?style=for-the-badge&labelColor=white)
-<br> A tactical radar can be activated to sweep and reveal glimpses of hidden enemy ships on the board.
-
-<br> ![6.](https://img.shields.io/badge/6.-Turn_Based_Combat-34A853?style=for-the-badge&labelColor=white)
+<br> ![4.](https://img.shields.io/badge/4.-Turn_Based_Combat-34A853?style=for-the-badge&labelColor=white)
 <br> Players take alternating turns firing at the opponent’s grid, with visual feedback for hits and misses.
 
-<br> ![7.](https://img.shields.io/badge/7.-Victory_Detection-34A853?style=for-the-badge&labelColor=white)
+<br> ![5.](https://img.shields.io/badge/5.-Dynamic_Gun_Turrets-34A853?style=for-the-badge&labelColor=white)
+<br> Each ship's gun visually rotates in real-time to follow the player's mouse cursor, enhancing immersion.
+
+<br> ![6.](https://img.shields.io/badge/6.-Advanced_Sound_System-34A853?style=for-the-badge&labelColor=white)
+<br> Every action is accompanied by realistic sound effects—explosions for hits, splashes for misses, and gunfire on attacks.
+
+<br> ![7.](https://img.shields.io/badge/7.-Radar_Scanning_System-34A853?style=for-the-badge&labelColor=white)
+<br> A tactical radar can be activated to sweep and reveal glimpses of hidden enemy ships on the board.
+
+<br> ![8.](https://img.shields.io/badge/8.-Victory_Detection-34A853?style=for-the-badge&labelColor=white)
 <br> The game automatically detects when all ships of a player are sunk, declaring the winner.
 
-<br> ![8.](https://img.shields.io/badge/8.-Smooth_UI_and_Visual_Feedback-34A853?style=for-the-badge&labelColor=white)
+<br> ![9.](https://img.shields.io/badge/9.-Smooth_UI_and_Visual_Feedback-34A853?style=for-the-badge&labelColor=white)
 <br> Includes grid labels, animations, and action prompts for a polished user experience.
