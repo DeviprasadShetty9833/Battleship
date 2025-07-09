@@ -23,7 +23,7 @@ It showcases turn-based gameplay, grid-based logic, and real-time feedback using
 
 # Key Features:
 
-1. **Three Difficulty Levels** – Choose between Easy (6×6), Moderate (8×8), or Hard (10×10) grids, each scaling the challenge and grid dimensions.
+1. **Three Difficulty Levels** – Choose between Easy or Hard, each scaling the challenge and grid dimensions.
 
 2. **Drag-and-Drop Ship Placement** – Player ships are represented with real ship images and can be placed intuitively on the grid by dragging and dropping.
 
