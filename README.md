@@ -49,3 +49,16 @@ It showcases turn-based gameplay, grid-based logic, and real-time feedback using
 
 <br> ![9.](https://img.shields.io/badge/9.-Smooth_UI_and_Visual_Feedback-34A853?style=for-the-badge&labelColor=white)
 <br> Includes grid labels, animations, and action prompts for a polished user experience.
+
+
+# Concepts Used:
+Programming Language: Python 3.X
+Libraries: Pygame ( for graphics, events, rendering )
+
+Core Concepts:
+⊡⁠ Event-driven programming
+⊡⁠ Grid generation using NumPy
+⊡⁠ Collision handling (mouse clicks & grid mapping)
+⊡⁠ Turn-based state machine logic
+⊡⁠ AI logic with random attack generation
+⊡⁠ Dynamic GUI rendering using Pygame
