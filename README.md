@@ -65,6 +65,22 @@ Core Concepts:
 
 # How to use:
 
+🔧 Setup:
+<br> 1. Make sure Python 3.x is installed.
+<br> 2. Install Pygame if not already:
+```python
+pip install pygame
+```
+
+▶️ Run the Game:
+<br> 1. Copy the source code from the file : src.c
+<br> 2. Paste on a Python file & save it as " Battleship.py "
+
+🎮 Controls:
+Mouse Click:
+<br> 1. On Left board: place ships (during setup)
+<br> 2. On Right board: fire shots (during game)
+
 # Output:
 
 ![image alt](https://github.com/DeviprasadShetty9833/Battleship/blob/7f64cdce732410e29d7448e6509bb08983752cfb/assets/Output/Output1.png)
