@@ -81,7 +81,7 @@ pip install pygame
 🎮 Controls:
 
 <br> 1. Placing Ships: 
-- Place the ships on Left board: or click on ' **Randomize** '.
+- Drag and drop ships on Left board: or click on ' **Randomize** ' to position them.
 - Click on ' **Deploy** '.
 
 <br> 2. Game Play:
