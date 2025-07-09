@@ -24,7 +24,7 @@ It showcases turn-based gameplay, grid-based logic, and real-time feedback using
 # Key Features:
 
 <br> ![1.](https://img.shields.io/badge/1.-Three_Difficulty_Levels-34A853?style=for-the-badge&labelColor=white)
- Choose between Easy or Hard, each scaling the challenge and grid dimensions.
+<br> Choose between Easy or Hard, each scaling the challenge and grid dimensions.
 
 <br> ![2.](https://img.shields.io/badge/2.-Drag_and_Drop_Ship_Placement-34A853?style=for-the-badge&labelColor=white)
 <br> Player ships are represented with real ship images and can be placed intuitively on the grid by dragging and dropping.
