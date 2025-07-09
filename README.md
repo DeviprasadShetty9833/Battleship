@@ -62,3 +62,7 @@ Core Concepts:
 <br> ⊡⁠ Turn-based state machine logic
 <br> ⊡⁠ AI logic with random attack generation
 <br> ⊡⁠ Dynamic GUI rendering using Pygame
+
+# How to use:
+
+# Output:
