@@ -57,7 +57,6 @@ It showcases turn-based gameplay, grid-based logic, and real-time feedback using
 
 Core Concepts:
 <br> ⊡⁠ Event-driven programming
-<br> ⊡⁠ Grid generation using NumPy
 <br> ⊡⁠ Collision handling (mouse clicks & grid mapping)
 <br> ⊡⁠ Turn-based state machine logic
 <br> ⊡⁠ AI logic with random attack generation
