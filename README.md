@@ -74,7 +74,7 @@ pip install pygame
 
 ▶️ Run the Game:
 <br> 1. Copy the source code from the file : src.c
-<br> 2. Paste on a Python file & save it as " Battleship.py "
+<br> 2. Paste the code on a Python file & save it as " Battleship.py "
 
 🎮 Controls:
 Mouse Click:
