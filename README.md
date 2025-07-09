@@ -17,25 +17,32 @@
 
 # Overview:
 
-This is a visually engaging Battleship Game built using Python and Pygame, designed to simulate the classic naval war strategy game — with a modern twist. The game features a level-based grid system (Easy, Hard), interactive UI, and an AI opponent.
+This is a visually engaging and  advanced Battleship Game built using Python and Pygame, designed to simulate the classic naval war strategy game — with a modern twist. The game features a level-based grid system (Easy, Hard), interactive UI, and an AI opponent.
 
 It showcases turn-based gameplay, grid-based logic, and real-time feedback using hits, misses, and dynamic rendering. This project also demonstrates strong structuring in code, file organization, and scalable game logic.
 
 # Key Features:
 
 <br> ![1.](https://img.shields.io/badge/1.-Three_Difficulty_Levels-34A853?style=for-the-badge&labelColor=white)
-1. **Three Difficulty Levels** – Choose between Easy or Hard, each scaling the challenge and grid dimensions.
+ Choose between Easy or Hard, each scaling the challenge and grid dimensions.
 
-2. **Drag-and-Drop Ship Placement** – Player ships are represented with real ship images and can be placed intuitively on the grid by dragging and dropping.
+<br> ![2.](https://img.shields.io/badge/2.-Drag_and_Drop_Ship_Placement-34A853?style=for-the-badge&labelColor=white)
+ Player ships are represented with real ship images and can be placed intuitively on the grid by dragging and dropping.
 
-3. **AI Ship Deployment** – The AI randomly positions its ships on its side of the board with balanced distribution logic.
+<br> ![3.](https://img.shields.io/badge/3.-AI_Ship_Deployment-34A853?style=for-the-badge&labelColor=white)
+ The AI randomly positions its ships on its side of the board with balanced distribution logic.
 
-4. **Dynamic Gun Turrets** – Each ship's gun visually rotates in real-time to follow the player's mouse cursor, enhancing immersion.
+<br> ![4.](https://img.shields.io/badge/4.-Dynamic_Gun_Turrets-34A853?style=for-the-badge&labelColor=white)
+ Each ship's gun visually rotates in real-time to follow the player's mouse cursor, enhancing immersion.
 
-5. **Radar Scanning System** – A tactical radar can be activated to sweep and reveal glimpses of hidden enemy ships on the board.
+<br> ![5.](https://img.shields.io/badge/5.-Radar_Scanning_System-34A853?style=for-the-badge&labelColor=white)
+ A tactical radar can be activated to sweep and reveal glimpses of hidden enemy ships on the board.
 
-6. **Turn-Based Combat** – Players take alternating turns firing at the opponent’s grid, with visual feedback for hits and misses.
+<br> ![6.](https://img.shields.io/badge/6.-Turn_Based_Combat-34A853?style=for-the-badge&labelColor=white)
+ Players take alternating turns firing at the opponent’s grid, with visual feedback for hits and misses.
 
-7. **Victory Detection** – The game automatically detects when all ships of a player are sunk, declaring the winner.
+<br> ![7.](https://img.shields.io/badge/7.-Victory_Detection-34A853?style=for-the-badge&labelColor=white)
+ The game automatically detects when all ships of a player are sunk, declaring the winner.
 
-8. **Smooth UI and Visual Feedback** – Includes grid labels, animations, and action prompts for a polished user experience.
+<br> ![8.](https://img.shields.io/badge/8.-Smooth_UI_and_Visual_Feedback-34A853?style=for-the-badge&labelColor=white)
+ Includes grid labels, animations, and action prompts for a polished user experience.
