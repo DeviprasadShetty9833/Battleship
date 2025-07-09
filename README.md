@@ -67,6 +67,15 @@ Core Concepts:
 
 # Output:
 
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+
 # Feedback:
 <br> I’d love to hear from you!
 <br> If you encounter any [Bugs](https://github.com/DeviprasadShetty9833/Battleship/blob/main/Issue_Template/Bug_report.md), [Issues](https://github.com/DeviprasadShetty9833/Battleship/issues), or have [Suggestions](https://github.com/DeviprasadShetty9833/Battleship/blob/main/Issue_Template/Features_report.md) for improvements.
