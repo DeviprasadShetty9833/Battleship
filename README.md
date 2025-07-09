@@ -66,6 +66,7 @@ Core Concepts:
 # How to use:
 
 🔧 Setup:
+
 <br> 1. Make sure Python 3.x is installed.
 <br> 2. Install Pygame if not already:
 ```python
@@ -73,10 +74,12 @@ pip install pygame
 ```
 
 ▶️ Run the Game:
+
 <br> 1. Copy the source code from the file : src.c
 <br> 2. Paste the code on a Python file & save it as ' **Battleship.py** '.
 
 🎮 Controls:
+
 <br> 1. Placing Ships: 
 - Place the ships on Left board: or click on ' **Randomize** '.
 - Click on ' **Deploy** '.
