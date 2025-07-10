@@ -96,7 +96,8 @@ pip install pygame
 ![image alt](https://github.com/DeviprasadShetty9833/Battleship/blob/7f64cdce732410e29d7448e6509bb08983752cfb/assets/Output/Output5.png)
 ![image alt](https://github.com/DeviprasadShetty9833/Battleship/blob/7f64cdce732410e29d7448e6509bb08983752cfb/assets/Output/Output6.png)
 ![image alt](https://github.com/DeviprasadShetty9833/Battleship/blob/7f64cdce732410e29d7448e6509bb08983752cfb/assets/Output/Output7.png)
-![image alt](https://github.com/DeviprasadShetty9833/Battleship/blob/5b7e187babf6957d0d2cb4a447ae04703e584ad7/assets/Output/Output8.png)
+![image alt](https://github.com/DeviprasadShetty9833/Battleship/blob/4fdccdae4b51129898d2950df69abbded73264cb/assets/Output/Output8.png)
+![image alt](https://github.com/DeviprasadShetty9833/Battleship/blob/4fdccdae4b51129898d2950df69abbded73264cb/assets/Output/Output9.png)
 
 # Feedback:
 <br> I’d love to hear from you!
