@@ -82,6 +82,7 @@ pip install pygame
 <br> 1. Placing Ships: 
 - Drag and drop ships on Left board: or click on ' **Randomize** ' to position them.
 - Click on ' **Deploy** '.
+
 <br> 2. Game Play:
 - Click on grid boxes on Right board to fire shots on Opponent's ships.
 - Use ' **Radar** ' to scan enemy waters and locate the ship.
