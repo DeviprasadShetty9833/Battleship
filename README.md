@@ -15,31 +15,31 @@ It showcases turn-based gameplay, grid-based logic, and real-time feedback using
 
 # Key Features:
 
-<br> ![1.](https://img.shields.io/badge/1.-Two_Difficulty_Levels-34A853?style=for-the-badge&labelColor=white)
+<br> ![1.](https://img.shields.io/badge/1.-Two_Difficulty_Levels-347952?style=for-the-badge&labelColor=white)
 <br> Choose between Easy or Hard, each scaling the challenge and grid dimensions.
 
-<br> ![2.](https://img.shields.io/badge/2.-Drag_and_Drop_Ship_Placement-34A853?style=for-the-badge&labelColor=white)
+<br> ![2.](https://img.shields.io/badge/2.-Drag_and_Drop_Ship_Placement-347952?style=for-the-badge&labelColor=white)
 <br> Player ships are represented with real ship images and can be placed intuitively on the grid by dragging and dropping.
 
-<br> ![3.](https://img.shields.io/badge/3.-AI_Ship_Deployment-34A853?style=for-the-badge&labelColor=white)
+<br> ![3.](https://img.shields.io/badge/3.-AI_Ship_Deployment-347952?style=for-the-badge&labelColor=white)
 <br> The AI randomly positions its ships on its side of the board with balanced distribution logic.
 
-<br> ![4.](https://img.shields.io/badge/4.-Turn_Based_Combat-34A853?style=for-the-badge&labelColor=white)
+<br> ![4.](https://img.shields.io/badge/4.-Turn_Based_Combat-347952?style=for-the-badge&labelColor=white)
 <br> Players take alternating turns firing at the opponent’s grid, with visual feedback for hits and misses.
 
-<br> ![5.](https://img.shields.io/badge/5.-Dynamic_Gun_Turrets-34A853?style=for-the-badge&labelColor=white)
+<br> ![5.](https://img.shields.io/badge/5.-Dynamic_Gun_Turrets-347952?style=for-the-badge&labelColor=white)
 <br> Each ship's gun visually rotates in real-time to follow the player's mouse cursor, enhancing immersion.
 
-<br> ![6.](https://img.shields.io/badge/6.-Advanced_Sound_System-34A853?style=for-the-badge&labelColor=white)
+<br> ![6.](https://img.shields.io/badge/6.-Advanced_Sound_System-347952?style=for-the-badge&labelColor=white)
 <br> Every action is accompanied by realistic sound effects—explosions for hits, splashes for misses, and gunfire on attacks.
 
-<br> ![7.](https://img.shields.io/badge/7.-Radar_Scanning_System-34A853?style=for-the-badge&labelColor=white)
+<br> ![7.](https://img.shields.io/badge/7.-Radar_Scanning_System-347952?style=for-the-badge&labelColor=white)
 <br> A tactical radar can be activated to sweep and reveal glimpses of hidden enemy ships on the board.
 
-<br> ![8.](https://img.shields.io/badge/8.-Victory_Detection-34A853?style=for-the-badge&labelColor=white)
+<br> ![8.](https://img.shields.io/badge/8.-Victory_Detection-347952?style=for-the-badge&labelColor=white)
 <br> The game automatically detects when all ships of a player are sunk, declaring the winner.
 
-<br> ![9.](https://img.shields.io/badge/9.-Smooth_UI_and_Visual_Feedback-34A853?style=for-the-badge&labelColor=white)
+<br> ![9.](https://img.shields.io/badge/9.-Smooth_UI_and_Visual_Feedback-347952?style=for-the-badge&labelColor=white)
 <br> Includes grid labels, animations, and action prompts for a polished user experience.
 
 
